@@ -2,9 +2,9 @@
 Predicting whether a Residue in a Protein can be a part of an Alpha-Helix or not based on the Residue Position- A Binary Classifier Approach. 
 Part of coursework that I had done for BTRY6381 associated with Cornell University 
 
-Copyright (c) 2023 Aravind Sureshbabu
-\n Robert Frederick Smith School of Chemical and Biomolecular Engineering
-\n Cornell University, Ithaca NY 14850
+Copyright (c) 2023 Aravind Sureshbabu. 
+Robert Frederick Smith School of Chemical and Biomolecular Engineering. 
+Cornell University, Ithaca NY 14850. 
 
 Version 1.1
 
